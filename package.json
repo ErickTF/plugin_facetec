@@ -1,0 +1,25 @@
+{
+  "name": "com.ericktf.plugin.face",
+  "version": "11.0.0",
+  "description": "This Plugin FaceTecDev.",
+  "cordova": {
+    "id": "com.ericktf.plugin.face",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickTF/plugin_facetec.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Erick Tito Fernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErickTF/plugin_facetec/issues"
+  },
+  "homepage": "https://github.com/ErickTF/plugin_facetec#readme"
+}
