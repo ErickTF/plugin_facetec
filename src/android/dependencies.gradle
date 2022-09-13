@@ -1,0 +1,9 @@
+dependencies {
+    implementation 'com.squareup.okhttp3:okhttp:3.12.1'
+    implementation 'com.squareup.okio:okio:1.15.0'
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    implementation fileTree(include: ['*.jar'],dir:'libs')
+    implementation (name:'facetec-sdk-9.4.17',ext:'aar')
+    implementation 'androidx.appcompat:appcompat:1.5.1'   
+}
